@@ -1,0 +1,8 @@
+.btn-div {
+  display: flex;
+  gap: 8px;
+}
+
+.feedback-btn {
+  width: 70px;
+}

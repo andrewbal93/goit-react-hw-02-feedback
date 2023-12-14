@@ -1,0 +1,18 @@
+.notification-container {
+  background-color: #114d2a; /* Green background color for contrast */
+  color: #ecf0f1; /* Light text color */
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #314e3d; /* Border color for contrast */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(131, 131, 131, 0.615),
+    0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.smile {
+  width: 150px;
+}
